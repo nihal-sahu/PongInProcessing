@@ -1,7 +1,3 @@
-//Create Performance Task Code
-//AP Computer Science Principles
-//1 Player Ping Pong game - Using Processing 3.5.4
-
 //three boolean statements which evaluate what the current state of the game will be
 boolean startScreen = true; //screen that presents user with the instructions
 boolean game = false; //screen that starts the actual game that user can play
